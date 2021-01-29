@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "# Welcome to the fake-sdk"
+ls /examples
+
+exec /bin/sh
